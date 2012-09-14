@@ -1,0 +1,23 @@
+78,82c78,81
+<         <a href="/projects">Projects</a> |
+<         <a href="/Events">Events</a> |
+<         <a href="/aggregator">News</a> |
+<         <a href="/about">About</a> |
+<         <a href="/partners">Partners</a>
+---
+>         <a href="http://foss.rit.edu/projects">Projects</a> |
+>         <a href="http://foss.rit.edu/Events">Events</a> |
+>         <a href="http://foss.rit.edu/aggregator">News</a> |
+>         <a href="http://foss.rit.edu/about">About</a>
+85c84
+<         <p><strong>Welcome to the <a href="/sfd-12">Software Freedom Day
+---
+>         <p><strong>Welcome to the <a href="http://foss.rit.edu/sfd-12">Software Freedom Day
+95,97c94,96
+<               <div><strong>The Gold</strong><img alt="gold" src="goldmedal.png"/></div>
+<               <div><strong>The Silver</strong><img alt="silver" src="silvermedal.png"/></div>
+<               <div><strong>The Bronze</strong><img alt="bronze" src="bronzemedal.png"/></div>
+---
+>               <div><strong>The Gold</strong><img alt="gold" src="http://foss.rit.edu/files/goldmedal.png"/></div>
+>               <div><strong>The Silver</strong><img alt="silver" src="http://foss.rit.edu/files/silvermedal.png"/></div>
+>               <div><strong>The Bronze</strong><img alt="bronze" src="http://foss.rit.edu/files/bronzemedal.png"/></div>
